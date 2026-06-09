@@ -2,7 +2,12 @@ function App() {
   
   return (
     <>
-      <p>ok</p>
+      <div>
+        <h2>Login</h2>
+        <input 
+          type="email"
+        />
+      </div>
     </>
   )
 }
